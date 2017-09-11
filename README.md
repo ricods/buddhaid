@@ -1,0 +1,2 @@
+# buddhaid
+Srcipt template baru 
